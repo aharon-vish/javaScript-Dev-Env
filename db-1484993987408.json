@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 90303480,
+      "firstName": "Johnathan",
+      "lastName": "Prohaska",
+      "email": "Suzanne.Kuhn@gmail.com"
+    },
+    {
+      "id": 63871850,
+      "firstName": "Jeanette",
+      "lastName": "Heller",
+      "email": "Summer.Adams34@yahoo.com"
+    },
+    {
+      "id": 26758711,
+      "firstName": "Margie",
+      "lastName": "Towne",
+      "email": "Ashleigh.Kertzmann68@hotmail.com"
+    },
+    {
+      "id": 62395373,
+      "firstName": "Margaretta",
+      "lastName": "Macejkovic",
+      "email": "Aniya_Yost@gmail.com"
+    },
+    {
+      "id": 75848397,
+      "firstName": "Adella",
+      "lastName": "Marvin",
+      "email": "Jackeline87@yahoo.com"
+    }
+  ]
+}
